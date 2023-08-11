@@ -1,5 +1,11 @@
 package array_and_string
 
+
+
+// tes commit merge
+
+//tes checkout branch array and string
+
 class ReverseArray {
     fun executeReverse() {
         val array = arrayOf(1, 47, 7, 88, 8, 8, 67, 56)
