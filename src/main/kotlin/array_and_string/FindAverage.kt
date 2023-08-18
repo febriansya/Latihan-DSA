@@ -2,7 +2,12 @@ package array_and_string
 
 class FindAverage() : MathAverage() {
 
-//    titik tengah
+    /*
+    *
+    *  find average example 1,4,5,6,7
+    *  average= 5
+    *
+    * */
 
     private val arr = arrayOf(1, 4, 5, 6, 74, 56, 100)
     override fun findAverage(): Double {
